@@ -1,6 +1,6 @@
 ## `i*s`
 
-![preview](https://github.com/0xitsss/0xitsss/raw/gif.gif)
+![preview](https://github.com/0xitsss/0xitsss/blob/main/raw/gif.gif)
 
 ---
 
