@@ -44,6 +44,7 @@ contact: t.me/its_unknow
 
 ### 📦 projects
 
+- [quince](https://github.com/0xitsss/quince) — HFT framework with LuaJIT strategy runtime. WIP
 - [autofarm-mexc](https://github.com/0xitsss/autofarm-mexc) — modular, scalable, and OOP-based Telegram trading bot for MEXC, built with aiogram, SQLAlchemy, and async best practices.
 - **kokos** — HFT bot for crypto. Built in Rust with tokio/axum. No ML. (private)
 
