@@ -44,7 +44,7 @@ contact: t.me/its_unknow
 
 ### 📦 projects
 
-- [quince](https://github.com/0xitsss/quince) — HFT framework with LuaJIT strategy runtime. WIP
+- [quince](https://github.com/0xitsss/quince) — an ultra-low latency, event-driven HFT trading engine featuring a custom register-based VM (QFL) for sub-microsecond strategy execution. Written in Rust with a zero-heap-allocation hot path, fused indicator compiler optimizations (e.g., inlined EMA opcodes), and an active ULL non-blocking priority loop. WIP, AGPL-3.0
 - [autofarm-mexc](https://github.com/0xitsss/autofarm-mexc) — modular, scalable, and OOP-based Telegram trading bot for MEXC, built with aiogram, SQLAlchemy, and async best practices.
 - **kokos** — HFT bot for Polymarket. Built in Rust with tokio/axum. No ML. (private)
 
